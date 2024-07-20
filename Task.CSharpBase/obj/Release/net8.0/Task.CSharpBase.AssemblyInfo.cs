@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task.CSharpBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7743f03b282bd22296efba4bf8aca7edd377f72")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task.CSharpBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task.CSharpBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
