@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\task1b\\task1b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|solutionrelative:task1b\\task1b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\task1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|solutionrelative:task1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\task1b\\task1b.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|solutionrelative:task1b\\task1b.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD9C1F77-FCDC-4948-A3EA-07A91643D997}|Task1A\\Task1A.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\task1a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9C1F77-FCDC-4948-A3EA-07A91643D997}|Task1A\\Task1A.csproj|solutionrelative:task1a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\task1b\\task1b.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F31A269-6249-407C-B0EA-49647E538189}|Task1B\\Task1B.csproj|solutionrelative:task1b\\task1b.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task.CSharpBase\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task1B.csproj",
+              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
+              "RelativeDocumentMoniker": "Task1B\\Task1B.csproj",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
+              "RelativeToolTip": "Task1B\\Task1B.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T05:45:25.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Program.cs",
               "RelativeDocumentMoniker": "Task1B\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Task1B",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
               "RelativeDocumentMoniker": "Task1B\\Task1B.csproj",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task.CSharpBase\\Program.cs",
               "RelativeDocumentMoniker": "Task.CSharpBase\\Program.cs",
