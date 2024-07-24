@@ -9,4 +9,12 @@
 
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>$(DefineConstants);C:\Users\194\source\repos\CSharpEducation.Practice\Task1B\obj\Debug</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>$(DefineConstants);C:\Users\194\source\repos\CSharpEducation.Practice\Task1B\obj\Release</DefineConstants>
+  </PropertyGroup>
+
 </Project>
