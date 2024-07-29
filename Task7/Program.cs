@@ -1,4 +1,4 @@
-﻿namespace Task7
+﻿namespace Practice1.Task7
 {
     internal class Program
     {

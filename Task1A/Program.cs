@@ -1,4 +1,4 @@
-﻿namespace Task.CSharpBase
+﻿namespace Practice1.Task.CSharpBase
 {
     internal class Program
     {

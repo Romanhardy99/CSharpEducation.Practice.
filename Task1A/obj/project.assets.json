@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1A\\Task1A.csproj",
-      "projectName": "Task1A",
-      "projectPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1A\\Task1A.csproj",
+      "projectUniqueName": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1A\\Practice1.Task1A.csproj",
+      "projectName": "Practice1.Task1A",
+      "projectPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1A\\Practice1.Task1A.csproj",
       "packagesPath": "C:\\Users\\194\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1A\\obj\\",
+      "outputPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1A\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
