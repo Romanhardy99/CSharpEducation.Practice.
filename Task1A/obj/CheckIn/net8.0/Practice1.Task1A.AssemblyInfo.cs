@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practice1.Task1A")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("CheckIn")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f218797bd26b1f400fba49a3e925eda39fee54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dab0b5145919b5a8933075491c3f31f6572ea89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practice1.Task1A")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practice1.Task1A")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
