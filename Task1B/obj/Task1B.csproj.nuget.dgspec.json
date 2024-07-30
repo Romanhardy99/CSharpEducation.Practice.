@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {}
+    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {
+    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
+        "projectUniqueName": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
         "projectName": "Task1B",
-        "projectPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
+        "projectPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
         "packagesPath": "C:\\Users\\194\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task1B\\obj\\",
         "projectStyle": "PackageReference",
