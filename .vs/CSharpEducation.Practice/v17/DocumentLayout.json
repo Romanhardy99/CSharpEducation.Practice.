@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B3CE58B-6A5F-413A-A525-E4E35D0A5CFB}|Practice2.Task10\\Practice2.Task10.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3CE58B-6A5F-413A-A525-E4E35D0A5CFB}|Practice2.Task10\\Practice2.Task10.csproj|solutionrelative:practice2.task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAB7F1EA-9E55-493D-9102-A8FB9FD86DA3}|Practice2.Task9\\Practice2.Task9.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAB7F1EA-9E55-493D-9102-A8FB9FD86DA3}|Practice2.Task9\\Practice2.Task9.csproj|solutionrelative:practice2.task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -60,18 +64,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task9\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task9\\Program.cs",
-              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task9\\Program.cs",
-              "RelativeToolTip": "Practice2.Task9\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task10\\Program.cs",
+              "RelativeDocumentMoniker": "Practice2.Task10\\Program.cs",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task10\\Program.cs*",
+              "RelativeToolTip": "Practice2.Task10\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:57:08.114Z",
+              "WhenOpened": "2024-07-30T09:27:51.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Ptactice2.Task8\\Program.cs",
               "RelativeDocumentMoniker": "Ptactice2.Task8\\Program.cs",
@@ -84,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task7\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task7\\Program.cs",
@@ -97,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Ptactice2.Task6\\Program.cs",
               "RelativeDocumentMoniker": "Ptactice2.Task6\\Program.cs",
@@ -110,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task5\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task5\\Program.cs",
@@ -123,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task4\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task4\\Program.cs",
@@ -135,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task3\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task3\\Program.cs",
@@ -147,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task2\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task2\\Program.cs",
@@ -159,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task1\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task1\\Program.cs",
@@ -171,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task7\\Program.cs",
               "RelativeDocumentMoniker": "Task7\\Program.cs",
@@ -180,6 +184,40 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T05:35:06.101Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5c7896dd-3597-4707-989a-78f7ef4ccad2",
+        "Display": 1,
+        "X": 317,
+        "Y": 104,
+        "Width": 1508,
+        "Height": 803,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task9\\Program.cs",
+              "RelativeDocumentMoniker": "Practice2.Task9\\Program.cs",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task9\\Program.cs",
+              "RelativeToolTip": "Practice2.Task9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:57:08.114Z",
+              "EditorCaption": ""
             }
           ]
         }
