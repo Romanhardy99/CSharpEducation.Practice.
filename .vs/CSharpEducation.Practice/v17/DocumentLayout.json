@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55A69CF3-A318-40BB-AF45-EB40744353DB}|Practice2.Task11\\Practice2.Task11.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A69CF3-A318-40BB-AF45-EB40744353DB}|Practice2.Task11\\Practice2.Task11.csproj|solutionrelative:practice2.task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B3CE58B-6A5F-413A-A525-E4E35D0A5CFB}|Practice2.Task10\\Practice2.Task10.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3CE58B-6A5F-413A-A525-E4E35D0A5CFB}|Practice2.Task10\\Practice2.Task10.csproj|solutionrelative:practice2.task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAB7F1EA-9E55-493D-9102-A8FB9FD86DA3}|Practice2.Task9\\Practice2.Task9.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB7F1EA-9E55-493D-9102-A8FB9FD86DA3}|Practice2.Task9\\Practice2.Task9.csproj|solutionrelative:practice2.task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A6D19E9-4F57-44BD-BC4D-1DE5D64BBA0F}|Practice2.Task7\\Practice2.Task7.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6D19E9-4F57-44BD-BC4D-1DE5D64BBA0F}|Practice2.Task7\\Practice2.Task7.csproj|solutionrelative:practice2.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCF56B22-EE1D-4FAC-98E4-2FFDE29B9A39}|Ptactice2.Task8\\Ptactice2.Task8.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\ptactice2.task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCF56B22-EE1D-4FAC-98E4-2FFDE29B9A39}|Ptactice2.Task8\\Ptactice2.Task8.csproj|solutionrelative:ptactice2.task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6D19E9-4F57-44BD-BC4D-1DE5D64BBA0F}|Practice2.Task7\\Practice2.Task7.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice2.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6D19E9-4F57-44BD-BC4D-1DE5D64BBA0F}|Practice2.Task7\\Practice2.Task7.csproj|solutionrelative:practice2.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D241723-7CD6-41CC-BAEA-7389B3A86F1A}|Ptactice2.Task6\\Ptactice2.Task6.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\ptactice2.task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,28 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Practice2.Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task11\\Program.cs",
+              "RelativeToolTip": "Practice2.Task11\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA5wB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:41:50.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task10\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task10\\Program.cs",
-              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task10\\Program.cs*",
-              "RelativeToolTip": "Practice2.Task10\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task10\\Program.cs",
+              "RelativeToolTip": "Practice2.Task10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T09:27:51.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Ptactice2.Task8\\Program.cs",
               "RelativeDocumentMoniker": "Ptactice2.Task8\\Program.cs",
@@ -83,12 +92,11 @@
               "RelativeToolTip": "Ptactice2.Task8\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:58:44.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T06:58:44.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task7\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task7\\Program.cs",
@@ -109,8 +117,7 @@
               "RelativeToolTip": "Ptactice2.Task6\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA5wC4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:05:17.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T06:05:17.808Z"
             },
             {
               "$type": "Document",
@@ -122,8 +129,7 @@
               "RelativeToolTip": "Practice2.Task5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:25:54.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T10:25:54.806Z"
             },
             {
               "$type": "Document",
@@ -184,40 +190,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T05:35:06.101Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "5c7896dd-3597-4707-989a-78f7ef4ccad2",
-        "Display": 1,
-        "X": 317,
-        "Y": 104,
-        "Width": 1508,
-        "Height": 803,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task9\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task9\\Program.cs",
-              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task9\\Program.cs",
-              "RelativeToolTip": "Practice2.Task9\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:57:08.114Z",
-              "EditorCaption": ""
             }
           ]
         }
