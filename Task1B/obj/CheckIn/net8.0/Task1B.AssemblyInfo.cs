@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task1B")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("CheckIn")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c4b7f43a2c7b9138766b9a5f9d4d35eef68c5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dfb4d7d3e65621d1e0ee30a5bc0f0b0cf5501aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task1B")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task1B")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
