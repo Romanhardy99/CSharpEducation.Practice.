@@ -8,12 +8,15 @@ namespace Practice2.Task13
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
+
             int rows = 30;
+
             int cols = 15;
 
             int[,] matrix = CreateMatrix(rows, cols);
 
             PrintMatrix(matrix);
+
             Console.ResetColor();
         }
        static int[,] CreateMatrix(int rows, int cols)
