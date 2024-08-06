@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj": {}
+    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj": {
+    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj",
+        "projectUniqueName": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj",
         "projectName": "Practice1.Task5",
-        "projectPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj",
+        "projectPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Task5\\Practice1.Task5.csproj",
         "packagesPath": "C:\\Users\\194\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Task5\\obj\\",
         "projectStyle": "PackageReference",
