@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53DC7DB9-0F9B-4B1A-B902-02290C01BB2E}|Practice3.Task5\\Practice3.Task5.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DC7DB9-0F9B-4B1A-B902-02290C01BB2E}|Practice3.Task5\\Practice3.Task5.csproj|solutionrelative:practice3.task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FEC34DA-4324-42A8-B432-D1A5618A8C29}|Practice3.Task4\\Practice3.Task4.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEC34DA-4324-42A8-B432-D1A5618A8C29}|Practice3.Task4\\Practice3.Task4.csproj|solutionrelative:practice3.task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Practice3.Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task5\\Program.cs",
+              "RelativeToolTip": "Practice3.Task5\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:02:13.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Program.cs",
               "RelativeDocumentMoniker": "Practice3.Task4\\Program.cs",
               "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Program.cs",
               "RelativeToolTip": "Practice3.Task4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T05:24:48.907Z",
               "EditorCaption": ""
