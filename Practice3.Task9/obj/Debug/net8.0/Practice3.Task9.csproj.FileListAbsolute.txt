@@ -1,0 +1,15 @@
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\bin\Debug\net8.0\Practice3.Task9.exe
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\bin\Debug\net8.0\Practice3.Task9.deps.json
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\bin\Debug\net8.0\Practice3.Task9.runtimeconfig.json
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\bin\Debug\net8.0\Practice3.Task9.dll
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\bin\Debug\net8.0\Practice3.Task9.pdb
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.AssemblyInfoInputs.cache
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.AssemblyInfo.cs
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.csproj.CoreCompileInputs.cache
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.sourcelink.json
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.dll
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\refint\Practice3.Task9.dll
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.pdb
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\Practice3.Task9.genruntimeconfig.cache
+C:\Users\KULen\source\repos\CSharpEducation.Practice\Practice3.Task9\obj\Debug\net8.0\ref\Practice3.Task9.dll
