@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A196537-E4C6-4D4D-A9C3-001D511112AD}|Practice3.Task11\\Practice3.Task11.csproj|c:\\users\\kulen\\source\\repos\\csharpeducation.practice\\practice3.task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A196537-E4C6-4D4D-A9C3-001D511112AD}|Practice3.Task11\\Practice3.Task11.csproj|solutionrelative:practice3.task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AC86409-5AFF-4117-AC46-603FD9A3FCB8}|Practice3.Task10\\Practice3.Task10.csproj|c:\\users\\kulen\\source\\repos\\csharpeducation.practice\\practice3.task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC86409-5AFF-4117-AC46-603FD9A3FCB8}|Practice3.Task10\\Practice3.Task10.csproj|solutionrelative:practice3.task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -136,18 +140,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice3.Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Practice3.Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice3.Task11\\Program.cs",
+              "RelativeToolTip": "Practice3.Task11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:47:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice3.Task10\\Program.cs",
               "RelativeDocumentMoniker": "Practice3.Task10\\Program.cs",
-              "ToolTip": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice3.Task10\\Program.cs*",
-              "RelativeToolTip": "Practice3.Task10\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "ToolTip": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice3.Task10\\Program.cs",
+              "RelativeToolTip": "Practice3.Task10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T17:33:50.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice3.Task9\\Program.cs",
               "RelativeDocumentMoniker": "Practice3.Task9\\Program.cs",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task25\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task25\\Program.cs",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task24\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task24\\Program.cs",
@@ -185,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task23\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task23\\Program.cs",
@@ -197,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task22\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task22\\Program.cs",
@@ -209,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task21\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task21\\Program.cs",
@@ -221,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task20\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task20\\Program.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task19\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task19\\Program.cs",
@@ -245,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Practice2.Task18.csproj",
               "DocumentMoniker": "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task18\\Practice2.Task18.csproj",
               "RelativeDocumentMoniker": "Practice2.Task18\\Practice2.Task18.csproj",
@@ -257,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task18\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task18\\Program.cs",
@@ -269,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task17\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task17\\Program.cs",
@@ -281,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task16\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task16\\Program.cs",
@@ -293,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task15\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task15\\Program.cs",
@@ -305,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task14\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task14\\Program.cs",
@@ -317,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task13\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task13\\Program.cs",
@@ -329,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Practice2.Task12.csproj",
               "DocumentMoniker": "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task12\\Practice2.Task12.csproj",
               "RelativeDocumentMoniker": "Practice2.Task12\\Practice2.Task12.csproj",
@@ -341,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task12\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task12\\Program.cs",
@@ -353,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task11\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task11\\Program.cs",
@@ -365,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task10\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task10\\Program.cs",
@@ -377,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Ptactice2.Task8\\Program.cs",
               "RelativeDocumentMoniker": "Ptactice2.Task8\\Program.cs",
@@ -389,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task7\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task7\\Program.cs",
@@ -401,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Ptactice2.Task6\\Program.cs",
               "RelativeDocumentMoniker": "Ptactice2.Task6\\Program.cs",
@@ -413,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task5\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task5\\Program.cs",
@@ -425,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task4\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task4\\Program.cs",
@@ -437,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task3\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task3\\Program.cs",
@@ -449,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task2\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task2\\Program.cs",
@@ -461,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Practice2.Task1\\Program.cs",
               "RelativeDocumentMoniker": "Practice2.Task1\\Program.cs",
@@ -473,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KULen\\source\\repos\\CSharpEducation.Practice\\Task7\\Program.cs",
               "RelativeDocumentMoniker": "Task7\\Program.cs",
