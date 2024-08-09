@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj": {}
+    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj": {
+    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj",
+        "projectUniqueName": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj",
         "projectName": "Practice3.Task4",
-        "projectPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj",
+        "projectPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice3.Task4\\Practice3.Task4.csproj",
         "packagesPath": "C:\\Users\\194\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\obj\\",
         "projectStyle": "PackageReference",

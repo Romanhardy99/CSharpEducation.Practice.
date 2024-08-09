@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {}
+    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {
+    "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
+        "projectUniqueName": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
         "projectName": "Practice2.Task17",
-        "projectPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
+        "projectPath": "C:\\Users\\194\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
         "packagesPath": "C:\\Users\\194\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice2.Task17\\obj\\",
         "projectStyle": "PackageReference",
