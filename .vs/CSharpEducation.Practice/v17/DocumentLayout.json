@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1E77299-1FAD-4E7C-8CAF-8F205DDC9483}|Practice3.Task7\\Practice3.Task7.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E77299-1FAD-4E7C-8CAF-8F205DDC9483}|Practice3.Task7\\Practice3.Task7.csproj|solutionrelative:practice3.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43A704D6-E823-467F-9EC2-31633EAA86EA}|Practice3.Task8\\Practice3.Task8.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A704D6-E823-467F-9EC2-31633EAA86EA}|Practice3.Task8\\Practice3.Task8.csproj|solutionrelative:practice3.task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FCF96D6-5DE2-4721-91EE-5F85F1163AB7}|Practice3.Task6\\Practice3.Task6.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCF96D6-5DE2-4721-91EE-5F85F1163AB7}|Practice3.Task6\\Practice3.Task6.csproj|solutionrelative:practice3.task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E77299-1FAD-4E7C-8CAF-8F205DDC9483}|Practice3.Task7\\Practice3.Task7.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E77299-1FAD-4E7C-8CAF-8F205DDC9483}|Practice3.Task7\\Practice3.Task7.csproj|solutionrelative:practice3.task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53DC7DB9-0F9B-4B1A-B902-02290C01BB2E}|Practice3.Task5\\Practice3.Task5.csproj|c:\\users\\194\\source\\repos\\csharpeducation.practice\\practice3.task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,6 +40,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task8\\Program.cs",
+              "RelativeDocumentMoniker": "Practice3.Task8\\Program.cs",
+              "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task8\\Program.cs*",
+              "RelativeToolTip": "Practice3.Task8\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:05:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task7\\Program.cs",
               "RelativeDocumentMoniker": "Practice3.Task7\\Program.cs",
               "ToolTip": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task7\\Program.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task5\\Program.cs",
               "RelativeDocumentMoniker": "Practice3.Task5\\Program.cs",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\194\\source\\repos\\CSharpEducation.Practice\\Practice3.Task4\\Program.cs",
               "RelativeDocumentMoniker": "Practice3.Task4\\Program.cs",
