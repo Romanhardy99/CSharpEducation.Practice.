@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\MyLib\\MyLIb.csproj",
-      "projectName": "MyLIb",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\MyLib\\MyLIb.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\MyLib\\Practice3.Part2.Task1.csproj",
+      "projectName": "Practice3.Part2.Task1",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\MyLib\\Practice3.Part2.Task1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\MyLib\\obj\\",
       "projectStyle": "PackageReference",

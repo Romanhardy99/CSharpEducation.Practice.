@@ -1,4 +1,4 @@
-﻿namespace MyLib
+﻿namespace Practice3.Part2.Task1
 {
     public class MathHelper
     {
