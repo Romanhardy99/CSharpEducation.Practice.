@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
         "projectName": "Practice2.Task17",
-        "projectPath": "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
-        "packagesPath": "C:\\Users\\KULen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KULen\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\Practice2.Task17.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\CSharpEducation.Practice\\Practice2.Task17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KULen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
