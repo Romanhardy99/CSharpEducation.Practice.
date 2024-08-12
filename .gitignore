@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+bin
+obj
+bin/
+obj/
+/Practice2.Task1/bin
+/Practice2.Task1/obj
