@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using Practice5.Task2;
 
 namespace Practice5.Task1
 {
@@ -12,6 +13,8 @@ namespace Practice5.Task1
         static void Main(string[] args)
         {
             EmployeeList employeeList = new EmployeeList();
+            ConsoleLogger consoleLogger = new ConsoleLogger();
+            FileLogger fileLogger = new FileLogger("logText.txt");
 
             employeeList.AddEmployee(new Employee("Егор", 100000));
             employeeList.AddEmployee(new Manager("Макс", 70000, 6));
@@ -29,6 +32,9 @@ namespace Practice5.Task1
 
             employeeList.CalculateHours(hoursWorked);
 
+            consoleLogger.Trace("Это Trace");
+
+            fileLogger.Error("Это Error");
         }
     }
 }
