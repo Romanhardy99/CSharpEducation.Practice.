@@ -29,5 +29,10 @@ namespace Practice5.Task1
         {
             return hoursWorked * HourlyRate;
         }
+
+        public override decimal CalculateBonus()
+        {
+            throw new InvalidOperationException("Для подрядчиков используйте метод CalculateBonus(int hoursWorked).");
+        }
     }
 }
